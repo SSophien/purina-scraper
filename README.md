@@ -19,4 +19,4 @@ Via `CMD`
 cd /to/path
 node sandbox && python imagedl.py
 ```
-It'll save info about cats with within a folder named `cats`
+It'll save info about cats within a folder named `cats`
